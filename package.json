@@ -1,0 +1,19 @@
+{
+  "name": "ea-pledges",
+  "version": "0.1.0",
+  "description": "Pledging and donation reporting microservice for EA",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centre-for-effective-altruism/ea-pledges.git"
+  },
+  "author": "Sam Deere <tech@effectivealtruism.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centre-for-effective-altruism/ea-pledges/issues"
+  },
+  "homepage": "https://github.com/centre-for-effective-altruism/ea-pledges#readme"
+}
